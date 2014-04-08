@@ -1,3 +1,4 @@
 Open a text editor. Now write a couple of lines of text, perhaps
 describe the tastiest sandwich you can imagine, and save the
 file in the folder you created in the last lesson.
+Additional line to my file.
